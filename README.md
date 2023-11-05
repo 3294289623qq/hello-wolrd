@@ -1,2 +1,2 @@
-# hello-worid
+# hello-world
 print<"hello world">
